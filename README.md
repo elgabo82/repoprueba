@@ -4,7 +4,7 @@ Markdown también es una locura.
 
 # Repo de prueba
 
-###Blockquotes
+### Blockquotes
 
 > Blockquotes
 
@@ -12,18 +12,18 @@ Paragraphs and Line Breaks
                     
 > "Blockquotes Blockquotes", [Link](http://localhost/)。
 
-###Links
+### Links
 
 [Links](http://localhost/)
 
 
-###Code Blocks (multi-language) & highlighting
+### Code Blocks (multi-language) & highlighting
 
-####Inline code
+#### Inline code
 
 `$ npm install marked`
 
-####Code Blocks (Indented style)
+#### Code Blocks (Indented style)
 
 Indented 4 spaces, like `<pre>` (Preformatted Text).
 
@@ -31,7 +31,7 @@ Indented 4 spaces, like `<pre>` (Preformatted Text).
         echo "Hello world!";
     ?>
 
-####Javascript　
+#### Javascript　
 
 ```javascript
 function test(){
@@ -72,4 +72,4 @@ var testBox = box();
 testBox.add("jQuery").remove("jQuery");
 ```
 
-###Fin
+### Fin
