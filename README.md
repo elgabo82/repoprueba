@@ -10,7 +10,7 @@ Markdown también es una locura.
 
 Paragraphs and Line Breaks
                     
-> "Blockquotes Blockquotes", [Link](http://localhost/)。
+> "Blockquotes Blockquotes", [Link](http://localhost/)
 
 ### Links
 
