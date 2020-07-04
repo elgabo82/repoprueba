@@ -5,6 +5,7 @@ Markdown también es una locura.
 # Repo de prueba
 * Creado por Gabriel Morejón
 * Todo lo chévere de saber Git
+* Para todas las plataformas
 
 ### Blockquotes
 
